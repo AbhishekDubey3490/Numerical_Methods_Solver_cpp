@@ -1,4 +1,2 @@
 # Project_c++
-Implemented various numerical methods (Bisection, Newton-Raphson, Secant, Gauss-Seidel) to solve nonlinear and linear equations. Developed algorithms to solve first-order ordinary differential equations using Euler’s and Runge-Kutta methods.
-Focused on numerical integration techniques like Simpson’s Rule and the Trapezoidal Rule.
-Optimized the efficiency of iterative methods for better computational performance and faster results.
+Designed and implemented a comprehensive suite of numerical algorithms to solve linear and non-linear equations using Bisection, Newton-Raphson, Secant, and Gauss-Seidel methods. The project extended to solving first-order ODEs and performing numerical integration via Euler’s, Runge-Kutta, Simpson’s, and Trapezoidal techniques. Throughout development, the code structure was refactored to optimize iterative efficiency, resulting in significantly improved computational performance and reduced execution time.
